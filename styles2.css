@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+  /*imagenes*/
+  img {
+    border-radius: 5px;
+  }
+
+  /*letra*/
+  .letra1{
+    font-family: 'Monoton', cursive;
+    color:#44440d;
+  }
+  .letra2{
+
+    font-family: 'Dela Gothic One', cursive;
+    color: #44440d;
+    margin: 110px;
+  }
+  .div{
+    height: 150px;
+  }
+
+  p {
+    font-family: 'Reggae One', cursive;
+    }
